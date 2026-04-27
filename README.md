@@ -1,6 +1,5 @@
 # wallpaper-unloker
-In this repository you could get high quality static  wallpapers 
-# 🖼️ Minecraft Wallpaper Collection
+In this repository you could get high quality static  wallpapers
 
 High quality static and live
 wallpapers + Lively Wallpaper setup.
@@ -15,3 +14,4 @@ wallpapers + Lively Wallpaper setup.
 1. Download the setup from the link above
 2. Install Lively Wallpaper
 3. Import the wallpapers
+# wallpapers
