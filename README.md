@@ -6,7 +6,7 @@ wallpapers + Lively Wallpaper setup + android  live wallpaper app for android
 
 ## 📥 Download
 [Click here to download Lively Wallpaper Setup] https://drive.google.com/file/d/1IJp8pas7w8TEZ-lyyC8YUPo28AM3pEpm/view?usp=drive_link\
-
+[Click here to download video to wallpaer .apk foe android] https://drive.google.com/file/d/1JQK6M3TJxAf0eNhrQFZoiuvauzi5Yn2G/view?usp=drive_link
 
 ## 🖼️ Wallpapers Preview
 (you can drag and drop images here)
